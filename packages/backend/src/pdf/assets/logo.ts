@@ -1,0 +1,5 @@
+/**
+ * CloudLetters logo as a base64 data URI (SVG cloud icon).
+ * To update: replace the SVG and re-encode to base64.
+ */
+export const CLOUD_LOGO_BASE64 = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgNjAiIHdpZHRoPSIxMDAiIGhlaWdodD0iNjAiPjxwYXRoIGQ9Ik04MCA0NUgyNWExNSAxNSAwIDAgMS0yLTI5LjlBMjAgMjAgMCAwIDEgNjAgMTJhMTUgMTUgMCAwIDEgMjAgMTQuMUExMi41IDEyLjUgMCAwIDEgODAgNDV6IiBmaWxsPSIjMGEwYTBhIi8+PHRleHQgeD0iNTAiIHk9IjU3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSGVsdmV0aWNhIiBmb250LXNpemU9IjgiIGZpbGw9IiMwYTBhMGEiPkNsb3VkTGV0dGVyczwvdGV4dD48L3N2Zz4=';

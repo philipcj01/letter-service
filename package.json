@@ -1,0 +1,17 @@
+{
+  "name": "@cloudletters/app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r run build",
+    "test": "pnpm -r run test",
+    "lint": "pnpm -r run lint",
+    "dev": "pnpm --filter @cloudletters/frontend dev",
+    "backend:synth": "pnpm --filter @cloudletters/backend synth",
+    "backend:deploy": "pnpm --filter @cloudletters/backend deploy"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  }
+}

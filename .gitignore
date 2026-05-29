@@ -1,0 +1,8 @@
+node_modules
+dist
+cdk.out
+reports
+*.js.map
+*.d.ts
+.env
+.env.*
